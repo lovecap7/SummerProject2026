@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>C:\Users\lovecap\Desktop\ゲーム制作\ToonShader\x64\Debug\ToonShader.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>C:\Users\lovecap\Desktop\ゲーム制作\ToonShader\DiscordAlpha_PixelShader.pso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\lovecap\Desktop\ゲーム制作\ToonShader\MV1PixelShader_Simple.pso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\lovecap\Desktop\ゲーム制作\ToonShader\MV1VertexShader_Bone.vso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\lovecap\Desktop\ゲーム制作\ToonShader\MV1VertexShader_NoBone.vso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\lovecap\Desktop\ゲーム制作\ToonShader\ToonShader_OutLine.pso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\lovecap\Desktop\ゲーム制作\ToonShader\VertexShader_Outline.vso</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>
